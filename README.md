@@ -6,6 +6,8 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 
 npm install react-native-reanimated@3.10.1
 
+npm install picker
+
 Banco local:
 
 npm install expo-sqlite
